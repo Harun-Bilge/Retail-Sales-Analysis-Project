@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis Project
+# Retail Sales Analysis Project
 
 ## 📊 Overview
 This project explores retail sales data using **SQL** and **Power BI**.  
@@ -7,7 +7,7 @@ The goal is to turn raw data into meaningful business insights through clean SQL
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a relational retail database (`RetailDB`)
 - Run analytical SQL queries for sales and product insights
 - Create reusable **views** to connect with BI tools
@@ -15,7 +15,7 @@ The goal is to turn raw data into meaningful business insights through clean SQL
 
 ---
 
-## 🧩 Tools & Technologies
+## Tools & Technologies
 | Tool | Purpose |
 |------|----------|
 | **SQL Server** | Data modeling and analysis |
@@ -25,7 +25,7 @@ The goal is to turn raw data into meaningful business insights through clean SQL
 
 ---
 
-## 🧱 Database Structure
+## Database Structure
 **Database:** `RetailDB`
 
 **Tables:**
@@ -46,7 +46,7 @@ The goal is to turn raw data into meaningful business insights through clean SQL
 
 ---
 
-## ⚙️ SQL Example
+## SQL Example
 ```sql
 SELECT 
     Products.product_name AS Product,
