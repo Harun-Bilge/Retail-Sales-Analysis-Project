@@ -115,13 +115,13 @@ SUMX(Sales, Sales[quantity] * Sales[unit_price] * Sales[discount])
 ```plaintext
 Retail_Sales_Analysis/
 ├── data/
-│   └── Sales.csv
+│   └── sales_data.csv
 ├── sql/
-│   ├── create_tables.sql
-│   ├── analysis_queries.sql
-│   └── analysis_views.sql
+│   ├── 1_data_setup.sql
+│   ├── 2_analysis_queries.sql
+│   └── 3_views_of_analysis.sql
 ├── dashboard/
-│   └── Retail_Sales_Analysis.pbix
+│   └── retail_sales_analysis.pbix
 └── README.md
 ```
 
