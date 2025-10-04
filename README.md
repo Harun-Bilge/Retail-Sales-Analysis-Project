@@ -99,6 +99,42 @@ SUM(Sales[quantity])
 Total Discount Given =
 SUMX(Sales, Sales[quantity] * Sales[unit_price] * Sales[discount])
 ```
+---
+
+### 💡 Insights
+
+- Clothing had the highest sales volume, while Electronics generated the most revenue.  
+- Cash, Credit Card, and Online payments contributed almost equally.  
+- Discounts above 15% did not create a major rise in sales.  
+- Revenue peaks appeared in Q4 months — clear seasonal demand.  
+
+---
+
+### 📁 Project Files
+
+```plaintext
+Retail_Sales_Analysis/
+├── data/
+│   └── Sales.csv
+├── sql/
+│   ├── create_tables.sql
+│   ├── analysis_queries.sql
+│   └── analysis_views.sql
+├── dashboard/
+│   └── Retail_Sales_Analysis.pbix
+└── README.md
+```
+
+---
+
+### 🎓 Learnings
+
+- End-to-end analytics pipeline from data creation to visualization  
+- Writing analytical SQL queries and building BI-ready views  
+- Creating clean, minimal dashboards with dynamic DAX measures  
+- Applying data storytelling and visual hierarchy principles  
+
+---
 
 👤 **Author:**
 Harun Bilge
