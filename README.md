@@ -101,7 +101,7 @@ SUMX(Sales, Sales[quantity] * Sales[unit_price] * Sales[discount])
 ```
 ---
 
-### 💡 Insights
+### Insights
 
 - Clothing had the highest sales volume, while Electronics generated the most revenue.  
 - Cash, Credit Card, and Online payments contributed almost equally.  
@@ -110,7 +110,7 @@ SUMX(Sales, Sales[quantity] * Sales[unit_price] * Sales[discount])
 
 ---
 
-### 📁 Project Files
+### Project Files
 
 ```plaintext
 Retail_Sales_Analysis/
@@ -127,7 +127,7 @@ Retail_Sales_Analysis/
 
 ---
 
-### 🎓 Learnings
+### Learnings
 
 - End-to-end analytics pipeline from data creation to visualization  
 - Writing analytical SQL queries and building BI-ready views  
