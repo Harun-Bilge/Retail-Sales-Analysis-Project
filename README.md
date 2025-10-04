@@ -1,6 +1,6 @@
 # Retail Sales Analysis Project
 
-## 📊 Overview
+## Overview
 This project explores retail sales data using **SQL** and **Power BI**.  
 It focuses on understanding sales trends, product performance, regional revenue, and the impact of discounts.  
 The goal is to turn raw data into meaningful business insights through clean SQL logic and clear visualization.
